@@ -1,0 +1,3 @@
+# Proyecto_choucair
+Pruebas automatizadas
+Se realizó la automatización de dos casos de pruebas... 
